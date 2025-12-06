@@ -4,11 +4,11 @@
       "id": 1,
       "name": "Fortnite Private",
       "status": "Online",
-      "users": 447,
+      "users": 247,
       "version": "2.1.4",
       "rating": 4.8,
       "reviews": 157,
-      "uptime": "100.0%",
+      "uptime": "99.9%",
       "lastUpdate": "2 hours ago",
       "antiCheat": "EAC/UAC"
     },
@@ -16,8 +16,8 @@
       "id": 2,
       "name": "Temporary HWID Spoofer",
       "status": "Online",
-      "users": 256,
-      "version": "1.9.2",
+      "users": 253,
+      "version": "1.8.2",
       "rating": 4.4,
       "reviews": 119,
       "uptime": "99.9%",
@@ -45,6 +45,18 @@
       "rating": 4.8,
       "reviews": 42,
       "uptime": "99.9%",
+      "lastUpdate": "3 hours ago",
+      "antiCheat": "Ricochet"
+    },
+    {
+      "id": 10,
+      "name": "BO7/WZ External",
+      "status": "Online",
+      "users": 152,
+      "version": "1.4.2",
+      "rating": 4.7,
+      "reviews": 28,
+      "uptime": "99.9%",
       "lastUpdate": "1 hour ago",
       "antiCheat": "Ricochet"
     },
@@ -68,9 +80,9 @@
       "version": "1.2.1",
       "rating": 4.6,
       "reviews": 67,
-      "uptime": "100.0%",
+      "uptime": "99.7%",
       "lastUpdate": "1 hour ago",
-      "antiCheat": "Byfron"
+      "antiCheat": "N/A"
     }
   ]
 }
