@@ -63,8 +63,8 @@
     {
       "id": 11,
       "name": "R6 External",
-      "status": "Online",
-      "users": 200,
+      "status": "Offline",
+      "users": 0,
       "version": "1.0.1",
       "rating": 4.7,
       "reviews": 32,
