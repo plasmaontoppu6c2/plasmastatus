@@ -74,15 +74,27 @@
     },
     {
       "id": 12,
-  "name": "Arc Raiders",
-  "status": "Online",
-  "users": 185,
-  "version": "1.0.0",
-  "rating": 4.6,
-  "reviews": 18,
-  "uptime": "99.9%",
-  "lastUpdate": "1 hour ago",
-  "antiCheat": "EAC"
+      "name": "Arc Raiders",
+      "status": "Online",
+      "users": 85,
+      "version": "1.0.0",
+      "rating": 4.6,
+      "reviews": 18,
+      "uptime": "99.9%",
+      "lastUpdate": "1 hour ago",
+      "antiCheat": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Fortnite Slotted",
+      "status": "Online",
+      "users": 2,
+      "version": "1.0.0",
+      "rating": 5.0,
+      "reviews": 24,
+      "uptime": "99.9%",
+      "lastUpdate": "1 hour ago",
+      "antiCheat": "EAC"
     },
     {
       "id": 8,
