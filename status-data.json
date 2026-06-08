@@ -37,6 +37,18 @@
       "antiCheat": "EAC/UAC"
     },
     {
+      "id": 6,
+      "name": "BO6 External",
+      "status": "Online",
+      "users": 252,
+      "version": "1.4.2",
+      "rating": 4.8,
+      "reviews": 42,
+      "uptime": "100.0%",
+      "lastUpdate": "3 hours ago",
+      "antiCheat": "Ricochet"
+    },
+    {
       "id": 10,
       "name": "BO7/WZ External",
       "status": "Online",
@@ -52,7 +64,7 @@
       "id": 11,
       "name": "R6 External",
       "status": "Online",
-      "users": 396,
+      "users": 125,
       "version": "1.0.1",
       "rating": 4.7,
       "reviews": 32,
@@ -73,10 +85,22 @@
       "antiCheat": "N/A"
     },
     {
+      "id": 14,
+      "name": "Marvel Rivals",
+      "status": "Online",
+      "users": 62,
+      "version": "1.0.0",
+      "rating": 4.7,
+      "reviews": 12,
+      "uptime": "99.9%",
+      "lastUpdate": "1 hour ago",
+      "antiCheat": "NetEase"
+    },
+    {
       "id": 13,
       "name": "Fortnite Slotted",
       "status": "Online",
-      "users": 2,
+      "users": 124,
       "version": "1.0.0",
       "rating": 4.7,
       "reviews": 24,
