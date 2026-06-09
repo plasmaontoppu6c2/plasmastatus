@@ -37,18 +37,6 @@
       "antiCheat": "EAC/UAC"
     },
     {
-      "id": 6,
-      "name": "BO6 External",
-      "status": "Online",
-      "users": 252,
-      "version": "1.4.2",
-      "rating": 4.8,
-      "reviews": 42,
-      "uptime": "100.0%",
-      "lastUpdate": "3 hours ago",
-      "antiCheat": "Ricochet"
-    },
-    {
       "id": 10,
       "name": "BO7/WZ External",
       "status": "Online",
